@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Bhoyar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Undergrad&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vedant%20Bhoyar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20QA%20Automation%20Enthusiast%20%7C%20CS%20Undergrad&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Vedant+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+Java+%2B+React;Building+real-world+apps+one+commit+at+a+time;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Vedant+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+Java+%2B+React;Learning+QA+Automation+%7C+Playwright+%2B+Selenium;Building+real-world+apps+one+commit+at+a+time;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,15 +29,17 @@ const vedant = {
   university  : "G H Raisoni University, Nagpur",
   cgpa        : 7.15,
 
-  stack       : ["Java", "Python", "JavaScript", "React", "Node.js"],
-  databases   : ["MySQL", "SQL", "localStorage"],
-  tools       : ["Git", "GitHub", "VS Code"],
+  stack       : ["Java", "Python", "JavaScript", "React", "Node.js", "Express.js", "Flask"],
+  databases   : ["MySQL", "PostgreSQL", "MongoDB", "SQL"],
+  tools       : ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel", "Render"],
+  auth        : ["JWT"],
 
-  currentlyLearning : ["TypeScript", "REST API Design", "Advanced React Patterns"],
+  careerFocus       : "QA Automation 🧪",
+  currentlyLearning : ["Playwright", "Selenium", "API Testing (Postman)", "GitHub Actions (CI/CD)"],
 
   funFact     : "I built a full attendance tracker with zero backend — just pure JS & localStorage 🧠",
 
-  motto       : () => "Ship it, learn from it, ship it better. 🚀"
+  motto       : () => "Ship it, test it, ship it better. 🚀"
 };
 ```
 
@@ -58,12 +60,16 @@ const vedant = {
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Tools & Platforms**
@@ -71,12 +77,17 @@ const vedant = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-**Currently Learning**
+**Currently Learning (QA Automation)**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
@@ -141,8 +152,10 @@ const vedant = {
 
 | 📁 Project | 🛠️ Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| [**E-Commerce Website**](https://github.com/vedx-bit) | React · Node.js · JavaScript · CSS | Full-stack platform with dynamic cart, product browsing, React hooks state management, and mobile-first responsive design using Flexbox |
+| [**Nexwra — AI Workforce Platform**](https://nexwra.vercel.app) | React · Node.js · Express · MongoDB · JWT | Deployed full-stack platform with secure JWT authentication, REST APIs, and a MongoDB database |
 | [**ProAttendance — Student Attendance System**](https://proattendance.netlify.app/) | HTML · CSS · Vanilla JavaScript | Zero-backend browser app; localStorage persistence across sessions; automated per-student attendance % calculation with threshold alerts |
+| [**RideMate — Campus Ride Sharing**](https://github.com/vedx-bit) | Python · Flask · PostgreSQL · HTML · CSS | Final-year project where drivers offer rides and passengers book them on campus |
+| [**E-Commerce Website**](https://github.com/vedx-bit) | React · Node.js · JavaScript · CSS | Full-stack platform with dynamic cart, product browsing, React hooks state management, and mobile-first responsive design using Flexbox |
 
 </div>
 
@@ -160,7 +173,7 @@ const vedant = {
 | 📜 | **Java Programming** | Certified via **Coursera** |
 | 🗄️ | **SQL Basics** | Certified via **HackerRank** |
 | 🌐 | **Web Development** | Certified via **freeCodeCamp** |
-| 🔍 | **Live Deployed Project** | [proattendance.netlify.app](https://proattendance.netlify.app/) — production-grade attendance tracker live on Netlify |
+| 🔍 | **Live Deployed Projects** | [Nexwra](https://nexwra.vercel.app) on Vercel and [ProAttendance](https://proattendance.netlify.app/) on Netlify |
 
 </div>
 
@@ -181,16 +194,16 @@ const vedant = {
 ## 🧱 Currently Learning
 
 ```
-🧱 TypeScript     →  Type safety · Interfaces · Generics · TS + React
-🔌 REST API       →  Express.js routes · HTTP methods · Auth (JWT) · API design best practices
-⚛️  React Advanced →  Custom hooks · Context API · React Query · Performance optimisation
-🗃️  Databases      →  MySQL query optimisation · Relational schema design
+🧪 Playwright / Selenium  →  Browser automation · Test scripts · Page Object Model
+🔌 API Testing            →  Postman · HTTP methods · Status codes · Auth (JWT)
+⚙️  CI/CD                  →  GitHub Actions · Run tests on every push
+🐍 Python                 →  Test scripting · pytest basics
 ```
 
 ---
 
 <div align="center">
-  <i>"Code it. Ship it. Improve it. Repeat."</i><br/>
+  <i>"Code it. Test it. Ship it. Improve it. Repeat."</i><br/>
   <b>— Vedant Bhoyar</b>
 </div>
 
